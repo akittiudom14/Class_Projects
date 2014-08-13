@@ -11,4 +11,4 @@ All game logic and classes are implemented in ants.py, with the following files 
 
 Acknowledgements: Tom Magrino and Eric Tzeng developed this project with John DeNero. Jessica Wan contributed the artwork. Joy Jeng and Mark Miyashita invented the queen ant.
 
-- Parner: Song King
+- Partner: Song King

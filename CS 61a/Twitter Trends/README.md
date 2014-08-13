@@ -14,4 +14,6 @@ The project was implemented in trends.py with the the other files as utility fil
 
 note: The project relies on twitter data that is not included here
 
+Acknowledgements: Aditi Muralidharan developed this project with John DeNero. Hamilton Nguyen extended it.
+
 - Partner: Song King

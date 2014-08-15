@@ -1,4 +1,4 @@
-Ants VS. SomeBees
+Ants VS. SomeBees (Python)
 =================
 
 A partner and I created a tower defense game called Ants Vs. SomeBees. The game consists of a queen bee that must populate the colony with ants to defend her against the attacking bees. The colony is made of 8 spaces as seen in gameplay.png. Each ant has a special attribute, and requires a different amount of food to place it. During each turn the bees advance towards the end of the colony (where the Queen is) unless there is an ant inpeding it - which it will sting and kill. 

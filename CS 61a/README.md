@@ -1,3 +1,3 @@
+Structure and Interpretation of Computer Programs
 =
-Structure and Interpretation of Computer Programs (Spring 2013)
-=
+Spring 2013

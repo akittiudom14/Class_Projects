@@ -1,4 +1,4 @@
-Scheme Interpreter
+Scheme Interpreter (Python, Scheme)
 ==================
 
 A Partner and I created a scheme language interpreter using python. The interpreter was able to read a subset of the scheme programming language. This project required an understanding of scheme, and included:

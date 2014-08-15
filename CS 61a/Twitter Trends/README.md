@@ -1,3 +1,6 @@
+Twitter Trends
+=
+
 In this project, a partner and I created a geographic visualization of twitter data across the USA. We used dictionaries, lists, and data abstraction techniques to created a modular program that displays the sentiments of tweets about a certain word. This was done by:
 
 1. Collecting public Twitter posts (tweets) that have been tagged with geographic locations and filtering for those that contain the query term. We did so by extracting the text, time, latitude, and longitude values from the abstract data type. 

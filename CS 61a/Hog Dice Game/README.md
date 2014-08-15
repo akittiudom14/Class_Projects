@@ -1,3 +1,6 @@
+Hog Dice Game
+=============
+
 In this project, a partner and I created a simulator and a strategy for the dice game, Hog. We implemented higher-order functions, used a random number generator for the dice, and represented the dice using ASCII art. 
 
 The game of Hog consists of two players alternating turns trying to reach 100 points first. On each turn, the current player chooses some number of dice to roll, up to 10. He/She scores the sum of the dice outcomes, unless any of the dice come up a 1 ("Pig Out"), in which case she scores only 1 point for the turn. Our game also featured 5 specials rules:

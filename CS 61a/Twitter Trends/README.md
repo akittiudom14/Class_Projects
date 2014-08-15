@@ -1,4 +1,4 @@
-Twitter Trends
+Twitter Trends (Python)
 =
 
 In this project, a partner and I created a geographic visualization of twitter data across the USA. We used dictionaries, lists, and data abstraction techniques to created a modular program that displays the sentiments of tweets about a certain word. This was done by:

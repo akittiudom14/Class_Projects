@@ -1,0 +1,4 @@
+Hadoop MapReduce (Java)
+=
+
+This project was an introduction to mapreduce, hadoop, and using Amazon EC2 servers. A DoublePair class was created and used for the key and value for hadoop (implementing the WritableComparable interface). This class was used in my mapreduce to determine how often two words appear together in documents (in proj1.java). Given a target word, I figured out which words in a body of text are most closely related to it by ranking each unique word in the text. The ranking was determined by whether or not each word occured in the same body of text as the target word, and how far away from the target word it appeared. This mapreduce task was run on large Amazon EC2 clusters with varying number of workers to compare speed. 

@@ -1,4 +1,4 @@
-Hog Dice Game
+Hog Dice Game (Python)
 =============
 
 In this project, a partner and I created a simulator and a strategy for the dice game, Hog. We implemented higher-order functions, used a random number generator for the dice, and represented the dice using ASCII art. 
@@ -15,4 +15,4 @@ Our strategy was simple, try to force the othe player to get Hog Tied or Hog Wil
 
 We implemented code in hog.py, with dice.py and ucb.py as utility files for roling dice/ utility functions. 
 
-- Partner: Song King - 
+- Partner: Song King
